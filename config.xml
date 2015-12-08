@@ -84,3 +84,6 @@
     </platform>
     <engine name="android" spec="^4.0.2" />
 </widget>
+<plugin name="com.indigoway.cordova.whitelist.whitelistplugin" spec="1.1.1" source="pgb" />
+
+<allow-navigation href="http://*/*" /> 
